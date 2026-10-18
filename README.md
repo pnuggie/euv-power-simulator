@@ -21,6 +21,34 @@ It works. `plt` is the conventional alias, and I'd probably use it in a more for
 
 Yay!
 
+## The maths behind it
+
+### Simplified calculation
+
+The simulator assumes that every mirror has the same reflectivity, so the output power can be calculated using:
+
+$$
+P_{\text{out}} = P_{\text{in}} \times R^n
+$$
+
+Where:
+- $P_{\text{out}}$ is the final output power.
+- $P_{\text{in}}$ is the initial input power.
+- $R$ is the reflectivity of each mirror, expressed as a decimal to make calculating it easer.
+- $n$ is the number of mirrors.
+
+### A more generalised calculation
+
+In reality, individual mirrors can have different reflectivities (something I'd like to add in the future). This can be represented using the product symbol, $\prod$:
+
+$$
+P_{\text{out}} = P_{\text{in}} \prod_{i=1}^{n} R_i
+$$
+
+Here, $R_i$ represents the reflectivity of each individual mirror.
+
+The simulator currently uses the simplified calculation, assuming that all mirrors have the same reflectivity. Therefore, don't use this as some 'true perfect EUV power' calculator. Although unlikely, I'd still like to clarify that.
+
 ## Installation and usage
 
 ### Requirements
