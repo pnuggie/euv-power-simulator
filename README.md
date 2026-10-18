@@ -40,7 +40,7 @@ If `python` doesn't work, try `py` instead.
 
 ### Running the program
 
-1. Download this repository using **Code → Download ZIP**, then extract the ZIP file.
+1. Download this repository using **Code -> Download ZIP**, then extract the ZIP file.
 2. Open the folder containing `euvthingamajig.py` in File Explorer. Click the address bar at the top, type `cmd`, and press Enter. This opens Command Prompt in that folder.
 3. Run the program:
 
