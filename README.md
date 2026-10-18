@@ -21,6 +21,39 @@ It works. `plt` is the conventional alias, and I'd probably use it in a more for
 
 Yay!
 
+## Installation and usage
+
+### Requirements
+
+- Python 3
+- Matplotlib
+
+### Installation
+
+Make sure Python 3 is installed on your computer. Then open a terminal and run:
+
+```bash
+python -m pip install matplotlib
+```
+
+If `python` doesn't work, try `python3` instead.
+
+### Running the program
+
+1. Download this repository using **Code -> Download ZIP**, then extract the ZIP file.
+2. Open a terminal in the extracted folder containing `euvthingamajig.py`.
+3. Run the program:
+
+   ```bash
+   python euvthingamajig.py
+   ```
+
+   If you're using `python3` for installation, try `python3 euvthingamajig.py` instead.
+
+4. Follow the prompts to enter the starting EUV power, mirror reflectivity and number of mirrors.
+
+The program will calculate the remaining power and display a graph using Matplotlib. Isn't that so cool??
+
 ## What can't it do?
 
 All mirrors currently share the same reflectivity. For example, if you enter 70%, every mirror is treated as having 70% reflectivity. Real EUV optical systems are more complicated, so this is a simplified model rather than an accurate simulation of a complete lithography system.
