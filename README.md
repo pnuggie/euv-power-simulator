@@ -4,7 +4,7 @@ A simple Python-based EUV lithography power-loss simulator modelling optical pow
 
 ## Why did you make this?
 
-Honest answer: I was procrastinating on my homework. Why must I be forced to sit and read, write notes and do homework? I mean, I obviously will. I'm a responsible student. Don't worry.
+Honest answer: I was procrastinating on my homework. Why must I be forced to sit and read, write notes and do homework? I did eventually finish it. I'm a responsible student, okay!
 
 I also really like EUV lithography. I've created an unfinished personal wiki on Google Docs so I can irritate people with niche EUV knowledge whenever the opportunity arises. It's one of my fixations, alongside DDLC.
 
