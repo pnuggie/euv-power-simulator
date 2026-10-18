@@ -34,7 +34,7 @@ $$
 Where:
 - $P_{\text{out}}$ is the final output power.
 - $P_{\text{in}}$ is the initial input power.
-- $R$ is the reflectivity of each mirror, expressed as a decimal to make calculating it easer.
+- $R$ is the reflectivity of each mirror, expressed as a decimal to make calculating it easier.
 - $n$ is the number of mirrors.
 
 ### A more generalised calculation
