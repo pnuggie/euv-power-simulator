@@ -49,6 +49,8 @@ Here, $R_i$ represents the reflectivity of each individual mirror.
 
 The simulator currently uses the simplified calculation, assuming that all mirrors have the same reflectivity. Therefore, don't use this as some 'true perfect EUV power' calculator. Although unlikely, I'd still like to clarify that.
 
+-# Formatting that was a massive pain.
+
 ## Installation and usage
 
 ### Requirements
