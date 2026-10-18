@@ -30,29 +30,31 @@ Yay!
 
 ### Installation
 
-Make sure Python 3 is installed on your computer. Then open a terminal and run:
+Make sure Python 3 is installed on your computer. Then open Command Prompt and run:
 
 ```bash
 python -m pip install matplotlib
 ```
 
-If `python` doesn't work, try `python3` instead.
+If `python` doesn't work, try `py` instead.
 
 ### Running the program
 
-1. Download this repository using **Code -> Download ZIP**, then extract the ZIP file.
-2. Open a terminal in the extracted folder containing `euvthingamajig.py`.
+1. Download this repository using **Code → Download ZIP**, then extract the ZIP file.
+2. Open the folder containing `euvthingamajig.py` in File Explorer. Click the address bar at the top, type `cmd`, and press Enter. This opens Command Prompt in that folder.
 3. Run the program:
 
    ```bash
    python euvthingamajig.py
    ```
 
-   If you're using `python3` for installation, try `python3 euvthingamajig.py` instead.
+   If `python` doesn't work, try `py euvthingamajig.py` instead.
 
 4. Follow the prompts to enter the starting EUV power, mirror reflectivity and number of mirrors.
 
 The program will calculate the remaining power and display a graph using Matplotlib. Isn't that so cool??
+
+These instructions are for Windows. Apologies to everyone else.
 
 ## What can't it do?
 
