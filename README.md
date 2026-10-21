@@ -89,6 +89,10 @@ The program calculates the remaining optical power and displays a graph using Ma
 
 All mirrors currently share the same reflectivity. For example, if you enter 70%, every mirror is treated as having 70% reflectivity. Real EUV optical systems are more complicated, so this is a simplified model rather than an accurate simulation of a complete lithography system.
 
+In real EUV systems, mirrors use multilayer coatings made from alternating molybdenum and silicon layers. Their design can vary depending on the mirror's position and optical requirements, which affects how much light each mirror reflects.
+
+If every mirror in a real system behaved exactly like the mirrors in this simple program, that would be suspicious, even if very satisfying. Please take it up with the engineers. I am not strong enough for that level of mathematics, yet.
+
 ## The file name is inappropriate.
 
 Ugh, *sorry*.
