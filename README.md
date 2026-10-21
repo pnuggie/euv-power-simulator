@@ -60,7 +60,7 @@ The simulator currently uses the simplified calculation, assuming that all mirro
 
 ### Installation
 
-Make sure Python 3 is installed on your computer. Then open Command Prompt and run:
+Make sure Python 3 is installed. Open Command Prompt and install Matplotlib:
 
 ```bash
 python -m pip install matplotlib
@@ -70,21 +70,20 @@ If `python` doesn't work, try `py` instead.
 
 ### Running the program
 
-1. Download this repository using **Code -> Download ZIP**, then extract the ZIP file.
-2. Open the folder containing `euvthingamajig.py` in File Explorer. Click the address bar at the top, type `cmd`, and press Enter. This opens Command Prompt in that folder.
-3. Run the program:
+1. Download the repository using **Code -> Download ZIP**, then extract it.
+2. Open the extracted folder in File Explorer. Click the address bar, type `cmd`, and press Enter to open Command Prompt in that folder.
+3. Run:
 
    ```bash
    python euvthingamajig.py
    ```
 
-   If `python` doesn't work, try `py euvthingamajig.py` instead.
+   If needed, use `py euvthingamajig.py` instead.
+4. Enter the starting EUV power, mirror reflectivity and number of mirrors when prompted.
 
-4. Follow the prompts to enter the starting EUV power, mirror reflectivity and number of mirrors.
+The program calculates the remaining optical power and displays a graph using Matplotlib. Isn't that so cool??
 
-The program will calculate the remaining power and display a graph using Matplotlib. Isn't that so cool??
-
-These instructions are for Windows. Apologies to everyone else.
+*These instructions are for Windows. Apologies to everyone else.*
 
 ## What can't it do?
 
