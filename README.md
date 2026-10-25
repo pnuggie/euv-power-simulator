@@ -27,13 +27,24 @@ It working:
 
 <img width="494" height="468" alt="image" src="https://github.com/user-attachments/assets/cf4f8e8b-7d3f-45cc-8148-20a41838f93f" />
 
-It not working:
+
+Versus it not working:
 
 <img width="782" height="56" alt="image" src="https://github.com/user-attachments/assets/661a17d1-d622-4199-9254-a6784c95c6b3" />
+
+All inputs have a text error. This is one example.
+
 <img width="840" height="41" alt="image" src="https://github.com/user-attachments/assets/17e4c7a1-a674-4170-87a2-27c60ba1799c" />
+
+Reflectivity needs to be a percentage (explained in the section below). Yes, I'm going to ignore things like 200% reflectivity. 
+
 <img width="725" height="59" alt="image" src="https://github.com/user-attachments/assets/c0375024-8fd2-4151-9917-c7390fc2051d" />
+
+For decimals in the amount of mirrors. The other inputs allow decimals, but I don't believe I've found 1.5 mirrors before. Let me know if you have.
+
 <img width="320" height="44" alt="image" src="https://github.com/user-attachments/assets/824a6afb-02ca-42c6-8c65-c2ec07e8da99" />
 
+Another mirror error, but this time its in case the amount of mirrors is less than zero. 
 
 ## The maths behind it
 
