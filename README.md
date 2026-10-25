@@ -30,8 +30,9 @@ It working:
 It not working:
 
 <img width="782" height="56" alt="image" src="https://github.com/user-attachments/assets/661a17d1-d622-4199-9254-a6784c95c6b3" />
-<img width="615" height="41" alt="image" src="https://github.com/user-attachments/assets/33fd37a7-a17f-4a5a-955b-e31cdc5ecfa4" />
+<img width="840" height="41" alt="image" src="https://github.com/user-attachments/assets/17e4c7a1-a674-4170-87a2-27c60ba1799c" />
 <img width="725" height="59" alt="image" src="https://github.com/user-attachments/assets/c0375024-8fd2-4151-9917-c7390fc2051d" />
+<img width="320" height="44" alt="image" src="https://github.com/user-attachments/assets/824a6afb-02ca-42c6-8c65-c2ec07e8da99" />
 
 
 ## The maths behind it
