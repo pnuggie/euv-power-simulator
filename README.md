@@ -21,6 +21,19 @@ It works. `plt` is the conventional alias, and I'd probably use it in a more for
 
 Yay!
 
+## Images
+
+It working:
+
+<img width="494" height="468" alt="image" src="https://github.com/user-attachments/assets/cf4f8e8b-7d3f-45cc-8148-20a41838f93f" />
+
+It not working:
+
+<img width="782" height="56" alt="image" src="https://github.com/user-attachments/assets/661a17d1-d622-4199-9254-a6784c95c6b3" />
+<img width="615" height="41" alt="image" src="https://github.com/user-attachments/assets/33fd37a7-a17f-4a5a-955b-e31cdc5ecfa4" />
+<img width="725" height="59" alt="image" src="https://github.com/user-attachments/assets/c0375024-8fd2-4151-9917-c7390fc2051d" />
+
+
 ## The maths behind it
 
 ### Simplified calculation
