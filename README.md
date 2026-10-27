@@ -4,13 +4,9 @@ A simple Python-based EUV lithography power-loss simulator modelling optical pow
 
 ## Why did you make this?
 
-Honest answer: I was procrastinating on my homework. Why must I be forced to sit and read, write notes and do homework? I did eventually finish it. I'm a responsible student, okay!
+Honest answer: I was procrastinating on my homework. I did eventually finish it. I'm a responsible student, okay!
 
 I also really like EUV lithography. I've created an unfinished personal wiki on Google Docs so I can irritate people with niche EUV knowledge whenever the opportunity arises. It's one of my fixations, alongside DDLC.
-
-## Why did you import Matplotlib as `poop` instead of `plt`?
-
-It works. `plt` is the conventional alias, and I'd probably use it in a more formal project. This is not a formal project.
 
 ## What can it do?
 
@@ -121,6 +117,10 @@ If every mirror in a real machine behaved exactly like the mirrors in this simpl
 ## The file name is inappropriate.
 
 Ugh, *sorry*.
+
+## Why did you import Matplotlib as `poop` instead of `plt`?
+
+It works. `plt` is the conventional alias, and I'd probably use it in a more formal project. This is not a formal project.
 
 ## What's coming in the future?
 
